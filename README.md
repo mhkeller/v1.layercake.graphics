@@ -1,3 +1,5 @@
+> **This is the archived website for layercake.graphics, check out https://github.com/mhkeller/layercake.graphics for the current site**
+
 LayerCake.graphics
 ===
 

@@ -39,7 +39,7 @@
     "sirv": "^0.1.1",
     "svelte-extras": "^2.0.2",
     "topojson": "^3.0.2",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "eslint": "^5.15.3",
